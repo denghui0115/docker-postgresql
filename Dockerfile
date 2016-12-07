@@ -1,5 +1,5 @@
-FROM sameersbn/ubuntu:14.04.20161014
-MAINTAINER sameer@damagehead.com
+FROM denghui0115/ubuntu:14.04.20161207
+MAINTAINER denghui0115@163.com
 
 ENV PG_APP_HOME="/etc/docker-postgresql"\
     PG_VERSION=9.5 \
